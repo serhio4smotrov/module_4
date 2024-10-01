@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88396488-0e5e-4fcd-b440-a4419b655420" name="Changes" comment="initial">
+      <change afterPath="$PROJECT_DIR$/module_4_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fake_math.py" beforeDir="false" afterPath="$PROJECT_DIR$/module4_1/fake_math.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module4_1/module_4_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/true_math.py" beforeDir="false" afterPath="$PROJECT_DIR$/module4_1/true_math.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +48,7 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "Python.module_4_1.executor": "Run",
+    "Python.module_4_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -107,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727684053294</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial">
+      <option name="closed" value="true" />
+      <created>1727704141359</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727704141359</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
